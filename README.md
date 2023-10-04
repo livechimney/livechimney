@@ -1,3 +1,5 @@
+[![An image of @livechimney's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/livechimney)](https://holopin.io/@livechimney)
+
 - 👋 Hi, I’m @livechimney
 - 👀 I’m interested in coding,animating,theories,rabbitholes
 - 🌱 I’m currently learning software engineering
